@@ -22,7 +22,7 @@ Default profile picture for each user is provided by [Multiavatar API](https://a
 Clone the repository:
 
 ```sh
-$ git clone git@github.com:srbmaury/Chatters_2.git
+$ git clone git@github.com:rohitkgautam/chatWEB.git
 ```
 
 
@@ -63,7 +63,7 @@ session operates in a virtual environment set up by `virtualenv2`.
 
 Once `pip` has finished downloading the dependencies move to project directory:
 ```sh
-(env)$ cd Chatters_2
+(env)$ cd chatWEB
 ```
 ### Creating a superuser
 To create a superuser:
