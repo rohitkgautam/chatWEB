@@ -1,4 +1,4 @@
-# Chatters
+# ChatWEB
 
 A social meida site using django with email authenticated login system where users can 
 - Create account 
